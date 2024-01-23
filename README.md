@@ -7,6 +7,8 @@
 
 Built with React, this project utilizes the Pexels API to provide a photo gallery and search for specific images.
 
+![photoWebsite Gif](./PhotoWebsite.gif)
+
 ## Project Setup
 
 ```
